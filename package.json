@@ -1,0 +1,33 @@
+{
+  "name": "react-native-shaking-text",
+  "version": "0.1.0",
+  "description": "A Text component that shakes every time its content changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goshakkk/react-native-shaking-text.git"
+  },
+  "keywords": [
+    "React Native",
+    "Text",
+    "shaking",
+    "shake",
+    "animation"
+  ],
+  "author": "Gosha Arinich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goshakkk/react-native-shaking-text/issues"
+  },
+  "homepage": "https://github.com/goshakkk/react-native-shaking-text#readme",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": ">=15.4",
+    "react-native": ">=0.30"
+  }
+}
