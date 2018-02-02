@@ -23,7 +23,7 @@ Use it like you would use a `<Text>` — no configuration required.
 It will automatically detect when the content has changed, and shake the view.
 
 ```js
-import ShakingText from 'reactn-native-shaking-text';
+import ShakingText from 'react-native-shaking-text';
 
 export default class App extends React.Component {
   state = {
